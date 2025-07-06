@@ -1,0 +1,5 @@
+{
+  "FolderDirectory": "C:\\DatabaseBackup",
+  "FileExtensions": [ ".bak", ".log" ],
+  "RetentionDays": 7
+}
